@@ -18,7 +18,7 @@ class Homework1	{
 	} 
 
 	/*  takes two int variables a and b and finds the modulo and assigns it to variable c 
-	*	it then prints out a message giving the user the modulo as well as demonstrating that i know how to use  \n and \t 
+	*	it then prints out a message giving the user the modulo as well as demonstrating that i know how to usethe escape sequences \n and \t 
 	*/
 	
 	int a = 9;
@@ -29,7 +29,7 @@ class Homework1	{
 	
 	System.out.println(" \n" + "Hi " + args[0] + " " + args[1] + str + c + "\n" + "\n" + "Let's tab\tover\ttwice here because I didnt know what else to do with the tabs." + "\n");
 		
-		
+		//testing git
 		
 
 	}
