@@ -18,7 +18,7 @@ class Homework1	{
 	} 
 
 	/*  takes two int variables a and b and finds the modulo and assigns it to variable c 
-	*	it then prints out a message giving the user the modulo as well as demonstrating that i know how to usethe escape sequences \n and \t 
+	*	it then prints out a message giving the user the modulo as well as demonstrating that i know how to use the escape sequences \n and \t 
 	*/
 	
 	int a = 9;
