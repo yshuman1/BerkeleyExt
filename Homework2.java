@@ -8,8 +8,10 @@
 					What is the legal age to buy tobacco in your state? 21
 					What is the legal age to buy alcohol in your state? 10
 					You can buy alcohol but not tobacco.
+
+Special note -> This program has multiple possible outputs depending on the age of the user and the legal age to buy alcohol or tobacco.
 */
-//	This program has multiple possible outputs depending on the age of the user and the legal age to buy alcohol or tobacco.
+	
 import java.util.Scanner;
 
 class Homework2 
