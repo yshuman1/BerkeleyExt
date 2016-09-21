@@ -1,6 +1,6 @@
 /*	Student: s07ys, Yasin Shuman
 	Homework 2
-	Usage: java Homework
+	Usage: java Homework2
 	Sample output:  
 					Welcome to age verification!
 					Please type in the year you were born: 2001
