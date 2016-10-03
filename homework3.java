@@ -7,13 +7,11 @@ if ...else if ... else if ... else
 for loop
 do-while loop
 switch
-
 Sample output:
 	Hi! Whats your name? joe
 	Hi joe! Let's get Started
 	I'm a small program that proves that Yasin has learned the lesson even though he missed the last lecure. 
 	First, I'm going to count to 10 using a while loop. Hit enter to be amazed!
-
 	1
 	2
 	3
@@ -25,13 +23,11 @@ Sample output:
 	9
 	10
 	Wasn't that awesome? Next, we will have fun with switch Statements.
-
 	To learn a fun fact about George Washington enter 1.
 	To learn a fun fact about Abe Lincoln enter 2.
 	To learn a fun fact about Harambe enter 3.
 	Your choice: 1
 	George Washington was a tax cheat. Who led a revolution to evade british taxes. Traitor!
-
 	Okay joe now we will demonstrate a for loop by counting from 0 to 50 listing only even numbers.
 	Hit enter to see the magic!
 	0
@@ -60,7 +56,6 @@ Sample output:
 	46
 	48
 	50
-
 	Finally, we will have fun with if else statments. They are my favorite...How can I properly express sarcasm here?
 	Do you think I'm funny?
 	Rank me on a scale of 1 to 5: 1
