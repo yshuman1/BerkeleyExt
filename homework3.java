@@ -93,7 +93,7 @@ class Homework3
 			break;
 			case 2: System.out.println("Abe Lincoln didnt like black people.\nHe Said: \"I will say then that I am not, nor ever have been in favor of bringing about in any way the social and political equality of the white and black races.\"\n");
 			break;
-			case 3: System.out.println("HaHa Harambe wasnt a president but I think he would have been a better choice than Hillary or Trump. #DicksOutForHarambe\n");
+			case 3: System.out.println("HaHa Harambe wasnt a president but I think he would have been a better choice than Hillary or Trump. #DicksOutForHarambe (dumb hashtag I know...couldnt help it)\n");
 			break;
 			default: System.out.println("Wrong Answer! You were supposed to choose 1, 2 or 3.\n");
 			break;
@@ -117,8 +117,5 @@ class Homework3
 		} else {
 			System.out.println("That's not a number 1 to 5!");
 		}
-
-
-	
 	}
 }
