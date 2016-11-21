@@ -1,0 +1,45 @@
+import java.io.*;
+import java.util.*;
+
+class Homework10 {
+	public static void main(String[] args) throws IOException {
+    
+
+
+
+
+
+
+
+
+    String userInput;
+    FileWriter fw;
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    
+    try
+    {
+      fw = new FileWriter("Lorem_ipsum.txt", true);
+    }
+    
+    catch(IOException exc)
+    {
+      System.out.println("Error:" + exc.getMessage());
+      System.out.println("Cannot open file.");
+      return ;
+    }
+
+    System.out.println("Enter text ('quit' to quit).");
+    
+    do {
+      System.out.print(": ");
+      userInput = br.readLine();
+ 
+      if(userInput.compareTo("quit") == 0) break;
+ 
+      fw.write(userInput);
+    } while(userInput.compareTo("quit") != 0);
+ 
+    fw.close();
+    System.out.println("Look at the output in file Lorem_ipsum.txt");
+	}
+}
